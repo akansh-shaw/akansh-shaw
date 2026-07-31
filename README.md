@@ -43,5 +43,5 @@
 
 ---
 <div align="center">
-  <em>"Locked in and shipping in the vast sea of internet.🗽" </em>
+  <em>"Locked in and shipping in the vast sea of internet🗽" </em>
 </div>
