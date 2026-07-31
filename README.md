@@ -9,8 +9,8 @@
 ---
 
 ### 💻 About Me
-* 🌱 Currently diving deep into **Python**, **Java**, **C**, and Data Science fundamentals.
-* 🏦 Creator of the **[ATM-Project](https://github.com/akansh-shaw/ATM-Project)** (fully functional command-line banking simulation).
+* Currently diving deep into **Python**, **Java**, **C**, and Data Science fundamentals.
+* Creator of the **[ATM-Project](https://github.com/akansh-shaw/ATM-Project)** (fully functional command-line banking simulation).
 * 🎯 Focused on writing clean, scalable code and building a modern data science portfolio from scratch.
 
 ---
@@ -43,5 +43,5 @@
 
 ---
 <div align="center">
-  <em>"Simplicity is the soul of efficiency." ⚡</em>
+  <em>"Locked in and shipping in the vast sea of internet.🗽" </em>
 </div>
