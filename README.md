@@ -2,7 +2,7 @@
 
 # Hey there, I'm Akansh Shaw 🚀
 
-### *Semester 1 Data Science Student @ SMIT | Building clean code & digital solutions*
+### * BCA Data Science Student @ SMIT | Building clean code & digital solutions*
 
 </div>
 
