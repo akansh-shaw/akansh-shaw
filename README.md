@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**akansh-shaw/akansh-shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Akansh Shaw 🚀
 
-Here are some ideas to get you started:
+### *Semester 1 Data Science Student @ SMIT | Building clean code & digital solutions*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 💻 About Me
+* 🌱 Currently diving deep into **Python**, **Data Science**, and Object-Oriented Programming.
+* 🏦 Creator of the **[ATM-Project](https://github.com/akansh-shaw/ATM-Project)** (fully functional command-line banking simulation).
+* 🎯 Focused on writing clean, scalable code and building a modern data science portfolio from scratch.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python 3 |
+| **Workspaces** | Jupyter Notebook, JupyterLab |
+| **Version Control** | Git, GitHub |
+| **Design / Aesthetic** | Clean UI/UX, Minimalist Documentation |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akansh-shaw&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akansh-shaw&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <em>"Simplicity is the soul of efficiency." ⚡</em>
+</div>
