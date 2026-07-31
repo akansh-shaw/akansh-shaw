@@ -2,14 +2,14 @@
 
 # Hey there, I'm Akansh Shaw 🚀
 
-### * BCA Data Science Student @ SMIT | Building clean code & digital solutions*
+### *BCA Data Science Student @ SMIT | Building clean code & digital solutions*
 
 </div>
 
 ---
 
 ### 💻 About Me
-* 🌱 Currently diving deep into **Python**, **Data Science**, and Object-Oriented Programming.
+* 🌱 Currently diving deep into **Python**, **Java**, **C**, and Data Science fundamentals.
 * 🏦 Creator of the **[ATM-Project](https://github.com/akansh-shaw/ATM-Project)** (fully functional command-line banking simulation).
 * 🎯 Focused on writing clean, scalable code and building a modern data science portfolio from scratch.
 
@@ -20,7 +20,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python 3 |
+| **Languages** | Python 3, Java, C |
 | **Workspaces** | Jupyter Notebook, JupyterLab |
 | **Version Control** | Git, GitHub |
 | **Design / Aesthetic** | Clean UI/UX, Minimalist Documentation |
